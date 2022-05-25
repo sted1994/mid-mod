@@ -1,0 +1,17 @@
+.reservation {
+  background-color: white;
+  border: 6px solid teal;
+  border-radius: 10px;
+  color: teal;
+  height: 14rem;
+  width: 20rem;
+  margin: 20px;
+}
+
+.cancel-btn{
+  background-color: teal;
+  border-radius: 5px;
+  color: white;
+  height: 15%;
+  width: 80%;
+}

@@ -1,0 +1,18 @@
+input, .submit-reservation-btn{
+  font-size: 20px;
+  height: 1.5rem;
+  width: 16rem;
+}
+
+.submit-reservation-btn{
+  background-color: teal;
+  color: white;
+  height:1.9rem;
+}
+
+
+.reservation-form{
+  display: flex;
+  justify-content: space-around;
+  width: 80%;
+}
